@@ -10,8 +10,7 @@
 </tr>
 
 <tr>
-	<td align="center" colspan="2" style="padding: 20px; font-size: 20px;">We're
-		excited you've joined Shopmarg!</td>
+	<td align="center" colspan="2" style="padding: 20px; font-size: 20px;">Thanks for subscribing to our daily news.</td>
 </tr>
 <tr>
 	<td align="center" colspan="2" style="padding: 20px 20px 45px 20px;"><a
